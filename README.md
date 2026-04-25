@@ -18,7 +18,7 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 ```
 ```
-git clone https://github.com/DcnhanZz/Tool-DN.git
+git clone https://github.com/DcnhanZz/swk-tool.git
 ```
 ```
 cd swk-tool
@@ -31,7 +31,7 @@ python swk.py
 ```
 💻 Trên Windows
 ```
-git clone https://github.com/DcnhanZz/Tool-DN.git
+git clone https://github.com/DcnhanZz/swk-tool.git
 ```
 ```
 cd swk-tool
@@ -47,7 +47,7 @@ python swk.py
 sudo apt update && sudo apt install git python3 python3-pip -y
 ```
 ```
-git clone https://github.com/DcnhanZz/Tool-DN.git
+git clone https://github.com/DcnhanZz/swk-tool.git
 ```
 ```
 cd swk-tool
