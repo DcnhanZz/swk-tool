@@ -21,7 +21,7 @@ pkg install git python -y
 git clone https://github.com/DcnhanZz/Tool-DN.git
 ```
 ```
-cd TEN_REPO
+cd Tool-DN
 ```
 ```
 pip install requests yt-dlp
@@ -34,7 +34,7 @@ python swk.py
 git clone https://github.com/DcnhanZz/Tool-DN.git
 ```
 ```
-cd TEN_REPO
+cd Tool-DN
 ```
 ```
 pip install requests yt-dlp
@@ -50,7 +50,7 @@ sudo apt update && sudo apt install git python3 python3-pip -y
 git clone https://github.com/DcnhanZz/Tool-DN.git
 ```
 ```
-cd TEN_REPO
+cd Tool-DN
 ```
 ```
 pip3 install requests yt-dlp
